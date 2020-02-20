@@ -9,6 +9,10 @@ body {
   height: 100vh;
   margin: 0;
 }
+h2{
+    text-align: center;
+    color: #6feaf6;
+}
 * {
   box-sizing: border-box;
 }
